@@ -2,6 +2,7 @@
 
 A modern real-time chat application built with **Next.js 14+**, **Socket.io**, **MongoDB**, and **Tailwind CSS**. Supports one-to-one messaging, group chats, typing indicators, and online presence.
 
+
 ---
 
 ## Features
